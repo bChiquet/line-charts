@@ -1,11 +1,11 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.3",
     "summary": "A opinionated library for plotting lines charts in SVG.",
     "repository": "https://github.com/bChiquet/line-charts.git",
     "license": "BSD3",
     "source-directories": [
-      "./src",
-      "./docs/src"
+        "./src",
+        "./docs/src"
     ],
     "exposed-modules": [
         "LineChart",
